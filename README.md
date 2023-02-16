@@ -2,9 +2,9 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&weight=700&size=50&duration=4000&pause=5000&color=003153&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Web+%2F+BackEnd+Developer)](https://git.io/typing-svg)
+	<h3>Before Account => https://github.com/izunaaaaa</h3>
 
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%KimDuHong&count_bg=%2379C83D&title_bg=%231B1B1B&icon=googlechrome.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimDuHong&count_bg=%2379C83D&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://izuna.tistory.com/">
   <img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=tistory&logoColor=white&link=https://izuna.tistory.com/"/>
  </a>
@@ -16,7 +16,7 @@
 </a>
 <br/>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=prussian&height=400&langs_count=8)](https://github.com/KimDuHong/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDuHong&show_icons=true&theme=prussian&height=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=tokyonight&height=400&langs_count=8)](https://github.com/KimDuHong/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDuHong&show_icons=true&theme=tokyonight&height=400)
 	
 	
 <h2 align="center"> 📚 Tech Stack </h2>
