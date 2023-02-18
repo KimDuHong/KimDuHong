@@ -14,8 +14,8 @@
 <a href="mailto:art970@naver.com">	
    <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:art970@naver.com"/>
 </a>
-<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong)](https://github.com/KimDuHong/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=tokyonight&height=400&langs_count=8)](https://github.com/KimDuHong/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDuHong&show_icons=true&theme=tokyonight&height=400)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=tokyonight&height=400)](https://github.com/KimDuHong/github-readme-stats)&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDuHong&show_icons=true&theme=tokyonight&height=400)
 	
 	
 <h2 align="center"> 📚 Tech Stack </h2>
