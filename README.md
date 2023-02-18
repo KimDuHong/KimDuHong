@@ -68,5 +68,8 @@
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <h3>.<br>.<br>.</h3>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=tokyonight&height=400)](https://github.com/KimDuHong/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=tokyonight&height=400)](https://github.com/KimDuHong/github-readme-stats)
+	
+	
+	
 </div>
