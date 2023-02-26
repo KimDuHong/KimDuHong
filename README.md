@@ -70,6 +70,4 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDuHong&layout=compact&theme=tokyonight&height=400)](https://github.com/KimDuHong/github-readme-stats)
 	
-	
-	
 </div>
