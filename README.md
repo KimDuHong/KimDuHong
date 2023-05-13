@@ -2,7 +2,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&weight=700&size=50&duration=4000&pause=5000&color=81a4fa&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Web+%2F+BackEnd+Developer)](https://git.io/typing-svg)
-	<h3>Before Account => https://github.com/izunaaaaa</h3>
+<!-- 	<h3>Before Account => https://github.com/izunaaaaa</h3> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kimduhong&theme=tokyonight&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
